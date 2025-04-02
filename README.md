@@ -5,7 +5,7 @@ This project is a DevOps showcase featuring a Tic-Tac-Toe web app built with Fla
 
 - **GitHub**: [github.com/GeyasreeR/TicTacToe](https://github.com/GeyasreeR/TicTacToe)
 - **Docker Hub**: [geyasreer/tictactoe](https://hub.docker.com/r/geyasreer/tictactoe)
-- 
+
 ## What It Does
 - Runs a Flask app displaying the version.
 - Automatically builds and pushes Docker images when code is pushed.
